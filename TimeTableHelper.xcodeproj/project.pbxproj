@@ -23,6 +23,8 @@
 		E6333779120F4C2B00D3FABB /* TimesTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E6333777120F4C2B00D3FABB /* TimesTableViewController.m */; };
 		E633377A120F4C2B00D3FABB /* TimesTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E6333778120F4C2B00D3FABB /* TimesTableViewController.xib */; };
 		E66521E7121101E800E022E1 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E66521E6121101E800E022E1 /* icon.png */; };
+		E6746AC819D9165400E04E43 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E6746AC719D9165400E04E43 /* Default-568h@2x.png */; };
+		E6746ACA19D9166300E04E43 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6746AC919D9166300E04E43 /* Images.xcassets */; };
 		E69BE0F8120E5993009EDCE0 /* StartPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E69BE0F6120E5993009EDCE0 /* StartPageViewController.m */; };
 		E69BE0F9120E5993009EDCE0 /* StartPageViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E69BE0F7120E5993009EDCE0 /* StartPageViewController.xib */; };
 		E69BE13B120E5EE1009EDCE0 /* TestInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = E69BE13A120E5EE1009EDCE0 /* TestInfo.m */; };
@@ -241,6 +243,8 @@
 		E6333777120F4C2B00D3FABB /* TimesTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TimesTableViewController.m; sourceTree = "<group>"; };
 		E6333778120F4C2B00D3FABB /* TimesTableViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TimesTableViewController.xib; sourceTree = "<group>"; };
 		E66521E6121101E800E022E1 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		E6746AC719D9165400E04E43 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		E6746AC919D9166300E04E43 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "Time Tables/Images.xcassets"; sourceTree = "<group>"; };
 		E69BE0F5120E5993009EDCE0 /* StartPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StartPageViewController.h; sourceTree = "<group>"; };
 		E69BE0F6120E5993009EDCE0 /* StartPageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StartPageViewController.m; sourceTree = "<group>"; };
 		E69BE0F7120E5993009EDCE0 /* StartPageViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = StartPageViewController.xib; sourceTree = "<group>"; };
@@ -513,6 +517,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				E6746AC719D9165400E04E43 /* Default-568h@2x.png */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
@@ -534,6 +539,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				E6746AC919D9166300E04E43 /* Images.xcassets */,
 				E6CA8DA9123BDDA800C9B4D9 /* Entitlements.plist */,
 				E66521E5121101CC00E022E1 /* icons */,
 				E69BE22F120E7083009EDCE0 /* Sounds */,
@@ -796,7 +802,7 @@
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0440;
+				LastUpgradeCheck = 0600;
 				ORGANIZATIONNAME = "DiamondB Software";
 				TargetAttributes = {
 					1D6058900D05DD3D006BFB54 = {
@@ -957,6 +963,7 @@
 				E6CB097F12359B2700A8C211 /* 7-5.mp3 in Resources */,
 				E6CB098012359B2700A8C211 /* 7-6-42.mp3 in Resources */,
 				E6CB098112359B2700A8C211 /* 7-6.mp3 in Resources */,
+				E6746ACA19D9166300E04E43 /* Images.xcassets in Resources */,
 				E6CB098212359B2700A8C211 /* 7-7-49.mp3 in Resources */,
 				E6CB098312359B2700A8C211 /* 7-7.mp3 in Resources */,
 				E6CB098412359B2700A8C211 /* 7-8-56.mp3 in Resources */,
@@ -1001,6 +1008,7 @@
 				E6CB09AB12359B2700A8C211 /* 9-9.mp3 in Resources */,
 				E6CB09C21235B1DD00A8C211 /* 2-1-2.mp3 in Resources */,
 				E6CB09C31235B1DD00A8C211 /* 2-1.mp3 in Resources */,
+				E6746AC819D9165400E04E43 /* Default-568h@2x.png in Resources */,
 				E6CB09C41235B1DD00A8C211 /* 5-1-5.mp3 in Resources */,
 				E6CB09C51235B1DD00A8C211 /* 5-1.mp3 in Resources */,
 				E6BA00E912448B6E003570ED /* star.png in Resources */,
@@ -1052,7 +1060,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_ENTITLEMENTS = "";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -1076,6 +1085,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_ENTITLEMENTS = "";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -1095,13 +1106,13 @@
 		C01FCF4F08A954540054247B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				ONLY_ACTIVE_ARCH = YES;
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1112,7 +1123,6 @@
 		C01FCF5008A954540054247B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_C_LANGUAGE_STANDARD = c99;
@@ -1130,7 +1140,6 @@
 		E6CA8DA2123BDB7F00C9B4D9 /* Distribution */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				GCC_C_LANGUAGE_STANDARD = c99;
@@ -1149,7 +1158,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_ENTITLEMENTS = "";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";

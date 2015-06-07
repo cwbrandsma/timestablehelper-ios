@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<audacityproject projname="nine_data" version="1.1.0" audacityversion="1.2.5" sel0="19.3654421769" sel1="21.3275283447" vpos="0" h="17.7632653061" zoom="86.1328125000" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="0" comments="" id3v2="1" />
+	<wavetrack name="Audio Track" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="524288" sampleformat="131073" numsamples="974336" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00027.au' len='464384' min='-0.382193' max='0.308522' rms='0.066695'/>
+			</waveblock>
+			<waveblock start="464384" >
+				<simpleblockfile filename='b00035.au' len='509952' min='-0.290547' max='0.290150' rms='0.057561'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='20'>
+			<controlpoint t='4.945845340136' val='1.000000000000'/>
+			<controlpoint t='4.945850340136' val='1.000000000000'/>
+			<controlpoint t='5.537954183673' val='1.000000000000'/>
+			<controlpoint t='5.537959183673' val='1.000000000000'/>
+			<controlpoint t='9.833645793651' val='1.000000000000'/>
+			<controlpoint t='9.833650793651' val='1.000000000000'/>
+			<controlpoint t='10.425754637188' val='1.000000000000'/>
+			<controlpoint t='10.425759637188' val='1.000000000000'/>
+			<controlpoint t='12.178861213152' val='1.000000000000'/>
+			<controlpoint t='12.178866213152' val='1.000000000000'/>
+			<controlpoint t='12.770970056689' val='1.000000000000'/>
+			<controlpoint t='12.770975056689' val='1.000000000000'/>
+			<controlpoint t='14.744666201814' val='1.000000000000'/>
+			<controlpoint t='14.744671201814' val='1.000000000000'/>
+			<controlpoint t='15.336775045351' val='1.000000000000'/>
+			<controlpoint t='15.336780045351' val='1.000000000000'/>
+			<controlpoint t='17.890970056689' val='1.000000000000'/>
+			<controlpoint t='17.890975056689' val='1.000000000000'/>
+			<controlpoint t='18.425029013605' val='1.000000000000'/>
+			<controlpoint t='18.425034013605' val='1.000000000000'/>
+		</envelope>
+	</wavetrack>
+</audacityproject>

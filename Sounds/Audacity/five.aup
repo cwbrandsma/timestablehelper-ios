@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<audacityproject projname="five_data" version="1.1.0" audacityversion="1.2.5" sel0="51.3393197279" sel1="54.1547392290" vpos="0" h="49.4701133787" zoom="172.2656250000" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="0" comments="" id3v2="1" />
+	<wavetrack name="Audio Track" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="524288" sampleformat="131073" numsamples="2453760" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00116.au' len='521984' min='-0.533532' max='0.389242' rms='0.066280'/>
+			</waveblock>
+			<waveblock start="521984" >
+				<simpleblockfile filename='b00104.au' len='524288' min='-0.460441' max='0.291493' rms='0.058859'/>
+			</waveblock>
+			<waveblock start="1046272" >
+				<simpleblockfile filename='b00105.au' len='524288' min='-0.558343' max='0.361593' rms='0.064510'/>
+			</waveblock>
+			<waveblock start="1570560" >
+				<simpleblockfile filename='b00122.au' len='497152' min='-0.524254' max='0.270130' rms='0.058964'/>
+			</waveblock>
+			<waveblock start="2067712" >
+				<simpleblockfile filename='b00107.au' len='386048' min='-0.556512' max='0.334920' rms='0.056579'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='12'>
+			<controlpoint t='1.044892959184' val='1.000000000000'/>
+			<controlpoint t='1.044897959184' val='1.000000000000'/>
+			<controlpoint t='1.590561893424' val='1.000000000000'/>
+			<controlpoint t='1.590566893424' val='1.000000000000'/>
+			<controlpoint t='1.625391825397' val='1.000000000000'/>
+			<controlpoint t='1.625396825397' val='1.000000000000'/>
+			<controlpoint t='2.136230827664' val='1.000000000000'/>
+			<controlpoint t='2.136235827664' val='1.000000000000'/>
+			<controlpoint t='3.761627653061' val='1.000000000000'/>
+			<controlpoint t='3.761632653061' val='1.000000000000'/>
+			<controlpoint t='4.272466655329' val='1.000000000000'/>
+			<controlpoint t='4.272471655329' val='1.000000000000'/>
+		</envelope>
+	</wavetrack>
+</audacityproject>

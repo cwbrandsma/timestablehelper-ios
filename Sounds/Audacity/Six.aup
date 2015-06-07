@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<audacityproject projname="Six_data" version="1.1.0" audacityversion="1.2.5" sel0="18.6804535147" sel1="20.7005895692" vpos="0" h="9.9033106576" zoom="86.1328125000" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="0" comments="" id3v2="1" />
+	<wavetrack name="Audio Track" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="524288" sampleformat="131073" numsamples="905728" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00157.au' len='408064' min='-0.728542' max='0.372824' rms='0.066663'/>
+			</waveblock>
+			<waveblock start="408064" >
+				<simpleblockfile filename='b00178.au' len='449536' min='-0.646906' max='0.326436' rms='0.057869'/>
+			</waveblock>
+			<waveblock start="857600" >
+				<simpleblockfile filename='b00179.au' len='48128' min='-0.403159' max='0.486656' rms='0.084113'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='6'>
+			<controlpoint t='18.575953718821' val='1.000000000000'/>
+			<controlpoint t='18.575963718821' val='1.000000000000'/>
+			<controlpoint t='18.610788650794' val='1.000000000000'/>
+			<controlpoint t='18.610793650794' val='1.000000000000'/>
+			<controlpoint t='18.703668469388' val='1.000000000000'/>
+			<controlpoint t='18.703673469388' val='1.000000000000'/>
+		</envelope>
+	</wavetrack>
+</audacityproject>

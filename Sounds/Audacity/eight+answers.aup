@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<audacityproject projname="eight+answers_data" version="1.1.0" audacityversion="1.2.5" sel0="42.6898866213" sel1="45.7665306122" vpos="0" h="41.8423582766" zoom="86.1328125000" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="0" comments="" id3v2="1" />
+	<wavetrack name="Audio Track" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="524288" sampleformat="131073" numsamples="1739264" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00315.au' len='474112' min='-0.651972' max='0.597894' rms='0.086592'/>
+			</waveblock>
+			<waveblock start="474112" >
+				<simpleblockfile filename='b00316.au' len='516608' min='-0.675227' max='0.578210' rms='0.086021'/>
+			</waveblock>
+			<waveblock start="990720" >
+				<simpleblockfile filename='b00319.au' len='371968' min='-0.604608' max='0.357595' rms='0.067901'/>
+			</waveblock>
+			<waveblock start="1362688" >
+				<simpleblockfile filename='b00230.au' len='376576' min='-0.707118' max='0.531090' rms='0.088260'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="2" linked="0" offset="42.67827664" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="524288" sampleformat="131073" numsamples="154112" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00320.au' len='154112' min='-0.529686' max='0.500267' rms='0.085769'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="524288" sampleformat="131073" numsamples="12800" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00232.au' len='12800' min='-0.047776' max='0.053635' rms='0.003646'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

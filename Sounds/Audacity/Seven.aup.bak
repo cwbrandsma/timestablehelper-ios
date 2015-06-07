@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<audacityproject projname="Seven_data" version="1.1.0" audacityversion="1.2.5" sel0="2.7863945578" sel1="2.7863945578" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="0" comments="" id3v2="1" />
+	<wavetrack name="Audio Track" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="524288" sampleformat="131073" numsamples="1117696" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00063.au' len='524288' min='-0.707088' max='0.439261' rms='0.056545'/>
+			</waveblock>
+			<waveblock start="524288" >
+				<simpleblockfile filename='b00064.au' len='296704' min='-0.614832' max='0.355459' rms='0.054074'/>
+			</waveblock>
+			<waveblock start="820992" >
+				<simpleblockfile filename='b00065.au' len='296704' min='-0.483146' max='0.324666' rms='0.048287'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>
